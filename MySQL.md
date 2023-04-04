@@ -2,8 +2,6 @@
 
 -   Website: <https://www.mysql.com>
 
-Paragraph:
-
 MySQL is an open-source database. It is based on a relational database management system, but could also be consider multi-modal because of their incorporation of both structured and semi-structured data. From my understanding, MySQL can be hosted either through cloud-based programs or client/servers, due to its capabilities for web-based hosting. MySQL seems to have a shell that supports both JavaScript and Python but also has downloadable drivers that can connect to MySQL for additional usage.
 
 **Sources:**
